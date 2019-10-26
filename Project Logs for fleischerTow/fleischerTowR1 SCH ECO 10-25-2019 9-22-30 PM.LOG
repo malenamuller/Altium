@@ -1,0 +1,32 @@
+Change Component Designator: Old Designator=J1 New Designator=J2
+Change Component Designator: Old Designator=J2 New Designator=J1
+Change Component Designator: Old Designator=JIN New Designator=JIN3
+Change Component Designator: Old Designator=R1 New Designator=R7
+Change Component Designator: Old Designator=R2a New Designator=R10
+Change Component Designator: Old Designator=R2b New Designator=R11
+Change Component Designator: Old Designator=R2p New Designator=R8
+Change Component Designator: Old Designator=R3a New Designator=R2
+Change Component Designator: Old Designator=R3b New Designator=R3
+Change Component Designator: Old Designator=R3p New Designator=R1
+Change Component Designator: Old Designator=R4a New Designator=R15
+Change Component Designator: Old Designator=R4b New Designator=R16
+Change Component Designator: Old Designator=R4p New Designator=R12
+Change Component Designator: Old Designator=R5a New Designator=R21
+Change Component Designator: Old Designator=R5b New Designator=R22
+Change Component Designator: Old Designator=R5p New Designator=R20
+Change Component Designator: Old Designator=R6a New Designator=R18
+Change Component Designator: Old Designator=R6b New Designator=R19
+Change Component Designator: Old Designator=R6p New Designator=R17
+Change Component Designator: Old Designator=R7a New Designator=R13
+Change Component Designator: Old Designator=R7b New Designator=R14
+Change Component Designator: Old Designator=R7p New Designator=R9
+Change Component Designator: Old Designator=R8a New Designator=R5
+Change Component Designator: Old Designator=R8b New Designator=R6
+Change Component Designator: Old Designator=R8p New Designator=R4
+Change Component Designator: Old Designator=TP1 New Designator=TP3
+Change Component Designator: Old Designator=TP2 New Designator=TP4
+Change Component Designator: Old Designator=U1 New Designator=U3
+Change Component Designator: Old Designator=U1 New Designator=U2
+Change Component Designator: Old Designator=U2 New Designator=U1
+Change Component Part ID : Designator=U1 Old Part ID =1 New Part ID =2
+Change Component Part ID : Designator=U2 Old Part ID =2 New Part ID =1

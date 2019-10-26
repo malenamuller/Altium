@@ -1,0 +1,498 @@
+Added Component: Designator=Ca(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cb(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_Celda2(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_Celda3(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2_Celda2(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2_Celda3(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(SIP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3_Celda2(JUMPER3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3_Celda3(JUMPER3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JIN?(JUMPER3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JIN(JUMPER3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JIN(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JOUT(SIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JVCC(BORNERA3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(PRESET H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3_Celda2(PRESET H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3_Celda3(PRESET H)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8a_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8a_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8a(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8b_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8b_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8b(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8p_Celda2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8p_Celda3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8p(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_Celda2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1_Celda3(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2_Celda2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2_Celda3(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_Celda2(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1_Celda3(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Celda2(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2_Celda3(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(DIP8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(DIP8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Ca-2
+Added Pin To Net: NetName=GND Pin=Cb-2
+Added Pin To Net: NetName=GND Pin=JIN-2
+Added Pin To Net: NetName=GND Pin=JOUT-7
+Added Pin To Net: NetName=GND Pin=JOUT-8
+Added Pin To Net: NetName=GND Pin=JVCC-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1_Celda2-5
+Added Pin To Net: NetName=GND Pin=U1_Celda3-5
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2_Celda2-3
+Added Pin To Net: NetName=GND Pin=U2_Celda2-5
+Added Pin To Net: NetName=GND Pin=U2_Celda3-3
+Added Pin To Net: NetName=GND Pin=U2_Celda3-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R3a-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R3p-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-3
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-3
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=J1_Celda2-1
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R1a_Celda2-1
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R1p_Celda2-1
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R3_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R3_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R4b_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=R4p_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_1 Pin=U1_Celda2-6
+Added Net: Name=NetJ1_Celda2_1
+Added Pin To Net: NetName=NetJ1_Celda2_2 Pin=J1_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_2 Pin=R1b_Celda2-2
+Added Pin To Net: NetName=NetJ1_Celda2_2 Pin=R1p_Celda2-2
+Added Net: Name=NetJ1_Celda2_2
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=J1_Celda3-1
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R1a_Celda3-1
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R1p_Celda3-1
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R3_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R3_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R4b_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=R4p_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_1 Pin=U1_Celda3-6
+Added Net: Name=NetJ1_Celda3_1
+Added Pin To Net: NetName=NetJ1_Celda3_2 Pin=J1_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_2 Pin=R1b_Celda3-2
+Added Pin To Net: NetName=NetJ1_Celda3_2 Pin=R1p_Celda3-2
+Added Net: Name=NetJ1_Celda3_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R2b-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R2p-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R5b-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R5p-2
+Added Pin To Net: NetName=NetJ2_1 Pin=U2-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R3b-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R3p-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=J2_Celda2-1
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=R2b_Celda2-2
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=R2p_Celda2-2
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=R5b_Celda2-2
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=R5p_Celda2-2
+Added Pin To Net: NetName=NetJ2_Celda2_1 Pin=U2_Celda2-2
+Added Net: Name=NetJ2_Celda2_1
+Added Pin To Net: NetName=NetJ2_Celda2_2 Pin=J2_Celda2-2
+Added Pin To Net: NetName=NetJ2_Celda2_2 Pin=R3_Celda2-3
+Added Pin To Net: NetName=NetJ2_Celda2_2 Pin=R3_Celda2-3
+Added Pin To Net: NetName=NetJ2_Celda2_2 Pin=U2_Celda2-1
+Added Net: Name=NetJ2_Celda2_2
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=J2_Celda3-1
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=R2b_Celda3-2
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=R2p_Celda3-2
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=R5b_Celda3-2
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=R5p_Celda3-2
+Added Pin To Net: NetName=NetJ2_Celda3_1 Pin=U2_Celda3-2
+Added Net: Name=NetJ2_Celda3_1
+Added Pin To Net: NetName=NetJ2_Celda3_2 Pin=J2_Celda3-2
+Added Pin To Net: NetName=NetJ2_Celda3_2 Pin=R3_Celda3-3
+Added Pin To Net: NetName=NetJ2_Celda3_2 Pin=R3_Celda3-3
+Added Pin To Net: NetName=NetJ2_Celda3_2 Pin=U2_Celda3-1
+Added Net: Name=NetJ2_Celda3_2
+Added Pin To Net: NetName=NetJ3_Celda2_1 Pin=J3_Celda2-1
+Added Pin To Net: NetName=NetJ3_Celda2_1 Pin=TP2_Celda2-1
+Added Pin To Net: NetName=NetJ3_Celda2_1 Pin=TP2_Celda2-2
+Added Pin To Net: NetName=NetJ3_Celda2_1 Pin=U1_Celda2-1
+Added Pin To Net: NetName=NetJ3_Celda2_1 Pin=U1_Celda2-2
+Added Net: Name=NetJ3_Celda2_1
+Added Pin To Net: NetName=NetJ3_Celda3_1 Pin=J3_Celda3-1
+Added Pin To Net: NetName=NetJ3_Celda3_1 Pin=TP2_Celda3-1
+Added Pin To Net: NetName=NetJ3_Celda3_1 Pin=TP2_Celda3-2
+Added Pin To Net: NetName=NetJ3_Celda3_1 Pin=U1_Celda3-1
+Added Pin To Net: NetName=NetJ3_Celda3_1 Pin=U1_Celda3-2
+Added Net: Name=NetJ3_Celda3_1
+Added Pin To Net: NetName=NetJIN?_1 Pin=JIN?-1
+Added Pin To Net: NetName=NetJIN?_1 Pin=TP2-1
+Added Pin To Net: NetName=NetJIN?_1 Pin=TP2-2
+Added Pin To Net: NetName=NetJIN?_1 Pin=U?-1
+Added Pin To Net: NetName=NetJIN?_1 Pin=U?-2
+Added Net: Name=NetJIN?_1
+Added Pin To Net: NetName=NetJIN_1 Pin=JIN-1
+Added Pin To Net: NetName=NetJIN_1 Pin=TP2-1
+Added Pin To Net: NetName=NetJIN_1 Pin=TP2-2
+Added Pin To Net: NetName=NetJIN_1 Pin=U1-1
+Added Pin To Net: NetName=NetJIN_1 Pin=U1-2
+Added Net: Name=NetJIN_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R4b-2
+Added Pin To Net: NetName=NetR1_2 Pin=R4p-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-6
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR1a_Celda2_2 Pin=R1a_Celda2-2
+Added Pin To Net: NetName=NetR1a_Celda2_2 Pin=R1b_Celda2-1
+Added Net: Name=NetR1a_Celda2_2
+Added Pin To Net: NetName=NetR1a_Celda3_2 Pin=R1a_Celda3-2
+Added Pin To Net: NetName=NetR1a_Celda3_2 Pin=R1b_Celda3-1
+Added Net: Name=NetR1a_Celda3_2
+Added Pin To Net: NetName=NetR2a_2 Pin=R2a-2
+Added Pin To Net: NetName=NetR2a_2 Pin=R2b-1
+Added Net: Name=NetR2a_2
+Added Pin To Net: NetName=NetR2a_Celda2_2 Pin=R2a_Celda2-2
+Added Pin To Net: NetName=NetR2a_Celda2_2 Pin=R2b_Celda2-1
+Added Net: Name=NetR2a_Celda2_2
+Added Pin To Net: NetName=NetR2a_Celda3_2 Pin=R2a_Celda3-2
+Added Pin To Net: NetName=NetR2a_Celda3_2 Pin=R2b_Celda3-1
+Added Net: Name=NetR2a_Celda3_2
+Added Pin To Net: NetName=NetR3a_2 Pin=R3a-2
+Added Pin To Net: NetName=NetR3a_2 Pin=R3b-1
+Added Net: Name=NetR3a_2
+Added Pin To Net: NetName=NetR4a_2 Pin=R4a-2
+Added Pin To Net: NetName=NetR4a_2 Pin=R4b-1
+Added Net: Name=NetR4a_2
+Added Pin To Net: NetName=NetR4a_Celda2_2 Pin=R4a_Celda2-2
+Added Pin To Net: NetName=NetR4a_Celda2_2 Pin=R4b_Celda2-1
+Added Net: Name=NetR4a_Celda2_2
+Added Pin To Net: NetName=NetR4a_Celda3_2 Pin=R4a_Celda3-2
+Added Pin To Net: NetName=NetR4a_Celda3_2 Pin=R4b_Celda3-1
+Added Net: Name=NetR4a_Celda3_2
+Added Pin To Net: NetName=NetR5a_2 Pin=R5a-2
+Added Pin To Net: NetName=NetR5a_2 Pin=R5b-1
+Added Net: Name=NetR5a_2
+Added Pin To Net: NetName=NetR5a_Celda2_2 Pin=R5a_Celda2-2
+Added Pin To Net: NetName=NetR5a_Celda2_2 Pin=R5b_Celda2-1
+Added Net: Name=NetR5a_Celda2_2
+Added Pin To Net: NetName=NetR5a_Celda3_2 Pin=R5a_Celda3-2
+Added Pin To Net: NetName=NetR5a_Celda3_2 Pin=R5b_Celda3-1
+Added Net: Name=NetR5a_Celda3_2
+Added Pin To Net: NetName=NetR6a_2 Pin=R6a-2
+Added Pin To Net: NetName=NetR6a_2 Pin=R6b-1
+Added Net: Name=NetR6a_2
+Added Pin To Net: NetName=NetR6a_Celda2_2 Pin=R6a_Celda2-2
+Added Pin To Net: NetName=NetR6a_Celda2_2 Pin=R6b_Celda2-1
+Added Net: Name=NetR6a_Celda2_2
+Added Pin To Net: NetName=NetR6a_Celda3_2 Pin=R6a_Celda3-2
+Added Pin To Net: NetName=NetR6a_Celda3_2 Pin=R6b_Celda3-1
+Added Net: Name=NetR6a_Celda3_2
+Added Pin To Net: NetName=NetR6b_2 Pin=R6b-2
+Added Pin To Net: NetName=NetR6b_2 Pin=R6p-2
+Added Pin To Net: NetName=NetR6b_2 Pin=R7b-2
+Added Pin To Net: NetName=NetR6b_2 Pin=R7p-2
+Added Pin To Net: NetName=NetR6b_2 Pin=R8a-1
+Added Pin To Net: NetName=NetR6b_2 Pin=R8p-1
+Added Pin To Net: NetName=NetR6b_2 Pin=U2-6
+Added Net: Name=NetR6b_2
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R6b_Celda2-2
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R6p_Celda2-2
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R7b_Celda2-2
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R7p_Celda2-2
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R8a_Celda2-1
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=R8p_Celda2-1
+Added Pin To Net: NetName=NetR6b_Celda2_2 Pin=U2_Celda2-6
+Added Net: Name=NetR6b_Celda2_2
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R6b_Celda3-2
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R6p_Celda3-2
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R7b_Celda3-2
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R7p_Celda3-2
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R8a_Celda3-1
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=R8p_Celda3-1
+Added Pin To Net: NetName=NetR6b_Celda3_2 Pin=U2_Celda3-6
+Added Net: Name=NetR6b_Celda3_2
+Added Pin To Net: NetName=NetR7a_1 Pin=R7a-1
+Added Pin To Net: NetName=NetR7a_1 Pin=R7p-1
+Added Pin To Net: NetName=NetR7a_1 Pin=U1-7
+Added Net: Name=NetR7a_1
+Added Pin To Net: NetName=NetR7a_2 Pin=R7a-2
+Added Pin To Net: NetName=NetR7a_2 Pin=R7b-1
+Added Net: Name=NetR7a_2
+Added Pin To Net: NetName=NetR7a_Celda2_1 Pin=R7a_Celda2-1
+Added Pin To Net: NetName=NetR7a_Celda2_1 Pin=R7p_Celda2-1
+Added Pin To Net: NetName=NetR7a_Celda2_1 Pin=U1_Celda2-7
+Added Net: Name=NetR7a_Celda2_1
+Added Pin To Net: NetName=NetR7a_Celda2_2 Pin=R7a_Celda2-2
+Added Pin To Net: NetName=NetR7a_Celda2_2 Pin=R7b_Celda2-1
+Added Net: Name=NetR7a_Celda2_2
+Added Pin To Net: NetName=NetR7a_Celda3_1 Pin=R7a_Celda3-1
+Added Pin To Net: NetName=NetR7a_Celda3_1 Pin=R7p_Celda3-1
+Added Pin To Net: NetName=NetR7a_Celda3_1 Pin=U1_Celda3-7
+Added Net: Name=NetR7a_Celda3_1
+Added Pin To Net: NetName=NetR7a_Celda3_2 Pin=R7a_Celda3-2
+Added Pin To Net: NetName=NetR7a_Celda3_2 Pin=R7b_Celda3-1
+Added Net: Name=NetR7a_Celda3_2
+Added Pin To Net: NetName=NetR8a_2 Pin=R8a-2
+Added Pin To Net: NetName=NetR8a_2 Pin=R8b-1
+Added Net: Name=NetR8a_2
+Added Pin To Net: NetName=NetR8a_Celda2_2 Pin=R8a_Celda2-2
+Added Pin To Net: NetName=NetR8a_Celda2_2 Pin=R8b_Celda2-1
+Added Net: Name=NetR8a_Celda2_2
+Added Pin To Net: NetName=NetR8a_Celda3_2 Pin=R8a_Celda3-2
+Added Pin To Net: NetName=NetR8a_Celda3_2 Pin=R8b_Celda3-1
+Added Net: Name=NetR8a_Celda3_2
+Added Pin To Net: NetName=VCC Pin=Ca-1
+Added Pin To Net: NetName=VCC Pin=JVCC-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=U1_Celda2-8
+Added Pin To Net: NetName=VCC Pin=U1_Celda3-8
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=U2_Celda2-8
+Added Pin To Net: NetName=VCC Pin=U2_Celda3-8
+Added Pin To Net: NetName=VCC Pin=U?-8
+Added Net: Name=VCC
+Added Pin To Net: NetName=VEE Pin=Cb-1
+Added Pin To Net: NetName=VEE Pin=JVCC-3
+Added Pin To Net: NetName=VEE Pin=U1-4
+Added Pin To Net: NetName=VEE Pin=U1_Celda2-4
+Added Pin To Net: NetName=VEE Pin=U1_Celda3-4
+Added Pin To Net: NetName=VEE Pin=U2-4
+Added Pin To Net: NetName=VEE Pin=U2_Celda2-4
+Added Pin To Net: NetName=VEE Pin=U2_Celda3-4
+Added Pin To Net: NetName=VEE Pin=U?-4
+Added Net: Name=VEE
+Added Pin To Net: NetName=VinFT Pin=J3_Celda2-2
+Added Pin To Net: NetName=VinFT Pin=J3_Celda3-2
+Added Pin To Net: NetName=VinFT Pin=JIN-2
+Added Pin To Net: NetName=VinFT Pin=R4a-1
+Added Pin To Net: NetName=VinFT Pin=R4a_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R4a_Celda3-1
+Added Pin To Net: NetName=VinFT Pin=R4p-1
+Added Pin To Net: NetName=VinFT Pin=R4p_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R4p_Celda3-1
+Added Pin To Net: NetName=VinFT Pin=R5a-1
+Added Pin To Net: NetName=VinFT Pin=R5a_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R5a_Celda3-1
+Added Pin To Net: NetName=VinFT Pin=R5p-1
+Added Pin To Net: NetName=VinFT Pin=R5p_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R5p_Celda3-1
+Added Pin To Net: NetName=VinFT Pin=R6a-1
+Added Pin To Net: NetName=VinFT Pin=R6a_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R6a_Celda3-1
+Added Pin To Net: NetName=VinFT Pin=R6p-1
+Added Pin To Net: NetName=VinFT Pin=R6p_Celda2-1
+Added Pin To Net: NetName=VinFT Pin=R6p_Celda3-1
+Added Net: Name=VinFT
+Added Pin To Net: NetName=VIN Pin=JIN-1
+Added Pin To Net: NetName=VIN Pin=JIN-3
+Added Pin To Net: NetName=VIN Pin=TP1-1
+Added Pin To Net: NetName=VIN Pin=TP1-2
+Added Pin To Net: NetName=VIN Pin=U1-3
+Added Net: Name=VIN
+Added Pin To Net: NetName=Vo1 Pin=J3_Celda2-3
+Added Pin To Net: NetName=Vo1 Pin=R2a-1
+Added Pin To Net: NetName=Vo1 Pin=R2p-1
+Added Pin To Net: NetName=Vo1 Pin=R8b-2
+Added Pin To Net: NetName=Vo1 Pin=R8p-2
+Added Pin To Net: NetName=Vo1 Pin=TP1_Celda2-1
+Added Pin To Net: NetName=Vo1 Pin=TP1_Celda2-2
+Added Pin To Net: NetName=Vo1 Pin=U1_Celda2-3
+Added Pin To Net: NetName=Vo1 Pin=U2-7
+Added Net: Name=Vo1
+Added Pin To Net: NetName=Vo2 Pin=J3_Celda3-3
+Added Pin To Net: NetName=Vo2 Pin=R2a_Celda2-1
+Added Pin To Net: NetName=Vo2 Pin=R2p_Celda2-1
+Added Pin To Net: NetName=Vo2 Pin=R8b_Celda2-2
+Added Pin To Net: NetName=Vo2 Pin=R8p_Celda2-2
+Added Pin To Net: NetName=Vo2 Pin=TP1_Celda3-1
+Added Pin To Net: NetName=Vo2 Pin=TP1_Celda3-2
+Added Pin To Net: NetName=Vo2 Pin=U1_Celda3-3
+Added Pin To Net: NetName=Vo2 Pin=U2_Celda2-7
+Added Net: Name=Vo2
+Added Pin To Net: NetName=Vo3 Pin=JIN?-3
+Added Pin To Net: NetName=Vo3 Pin=R2a_Celda3-1
+Added Pin To Net: NetName=Vo3 Pin=R2p_Celda3-1
+Added Pin To Net: NetName=Vo3 Pin=R8b_Celda3-2
+Added Pin To Net: NetName=Vo3 Pin=R8p_Celda3-2
+Added Pin To Net: NetName=Vo3 Pin=TP1-1
+Added Pin To Net: NetName=Vo3 Pin=TP1-2
+Added Pin To Net: NetName=Vo3 Pin=U2_Celda3-7
+Added Pin To Net: NetName=Vo3 Pin=U?-3
+Added Net: Name=Vo3
+Added Pin To Net: NetName=VOUT Pin=JIN?-2
+Added Pin To Net: NetName=VOUT Pin=JOUT-1
+Added Pin To Net: NetName=VOUT Pin=JOUT-2
+Added Net: Name=VOUT
+Added Class: Name=Celda1
+Added Class: Name=Celda2
+Added Class: Name=Celda3
+Added Class: Name=filter
+Added Class: Name=fleischerTowR3
+Added Room: Name=Celda1
+Added Room: Name=Celda2
+Added Room: Name=Celda3
+Added Room: Name=filter

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetJIN2_1 Pin=TP2-1
+Removed Pin From Net: NetName=NetJIN2_1 Pin=TP2-2
+Removed Member From Class: ClassName=filter Member=TP2

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetJ2_CELDA 1_1 Pin=R7_CELDA 1-2
+Removed Pin From Net: NetName=NetJ2_CELDA 1_1 Pin=R7_CELDA 1-2
+Removed Pin From Net: NetName=NetJ2_CELDA 1_2 Pin=R7_CELDA 1-3
+Removed Pin From Net: NetName=NetJ2_CELDA 1_2 Pin=R7_CELDA 1-3
+Removed Pin From Net: NetName=NetJ2_CELDA 2_1 Pin=R7_CELDA 2-2
+Removed Pin From Net: NetName=NetJ2_CELDA 2_1 Pin=R7_CELDA 2-2
+Removed Pin From Net: NetName=NetJ2_CELDA 2_2 Pin=R7_CELDA 2-3
+Removed Pin From Net: NetName=NetJ2_CELDA 2_2 Pin=R7_CELDA 2-3
+Removed Pin From Net: NetName=NetJ2_CELDA 3_1 Pin=R7_CELDA 3-2
+Removed Pin From Net: NetName=NetJ2_CELDA 3_1 Pin=R7_CELDA 3-2
+Removed Pin From Net: NetName=NetJ2_CELDA 3_2 Pin=R7_CELDA 3-3
+Removed Pin From Net: NetName=NetJ2_CELDA 3_2 Pin=R7_CELDA 3-3
+Removed Member From Class: ClassName=CELDA 1 Member=R7_CELDA 1
+Removed Member From Class: ClassName=CELDA 2 Member=R7_CELDA 2
+Removed Member From Class: ClassName=CELDA 3 Member=R7_CELDA 3
+Added Component: Designator=R1var_CELDA 1(PRESET V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1var_CELDA 2(PRESET V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1var_CELDA 3(PRESET V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ2_CELDA 1_1 Pin=R1var_CELDA 1-2
+Added Pin To Net: NetName=NetJ2_CELDA 1_2 Pin=R1var_CELDA 1-3
+Added Pin To Net: NetName=NetJ2_CELDA 2_1 Pin=R1var_CELDA 2-2
+Added Pin To Net: NetName=NetJ2_CELDA 2_2 Pin=R1var_CELDA 2-3
+Added Pin To Net: NetName=NetJ2_CELDA 3_1 Pin=R1var_CELDA 3-2
+Added Pin To Net: NetName=NetJ2_CELDA 3_2 Pin=R1var_CELDA 3-3
+Added Member To Class: ClassName=CELDA 1 Member=Component R1var_CELDA 1 (R1var) PRESET
+Added Member To Class: ClassName=CELDA 2 Member=Component R1var_CELDA 2 (R1var) PRESET
+Added Member To Class: ClassName=CELDA 3 Member=Component R1var_CELDA 3 (R1var) PRESET
